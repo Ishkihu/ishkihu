@@ -5,6 +5,12 @@ Fourth Year BSIS Student & Full-Stack Web Developer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishkihu) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_LINK)
 
+## 🌐 Socials & Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishkihu)
+[![JobStreet](https://img.shields.io/badge/JobStreet-%231C3F94.svg?style=for-the-badge&logo=jobstreet&logoColor=white)](https://ph.jobstreet.com/profiles/johnvictor-esquejo-j8zf8QRqR8)
+[![Indeed](https://img.shields.io/badge/Indeed-%23003A9B.svg?style=for-the-badge&logo=indeed&logoColor=white)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ishkihu.github.io/sole-portfolio)
+
 ---
 
 # 💻 Tech Stack
