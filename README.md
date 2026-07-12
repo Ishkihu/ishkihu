@@ -26,22 +26,26 @@ Fourth Year BSIS Student & Full-Stack Web Developer.
 
 ---
 
-# 📈 Activity & Timelines
+# 📁 Featured Repositories & Contributions
 
-### 📅 31-Day Commit Activity Graph
-This graph dynamically charts your daily commit trends over the past month.
-![](https://github-readme-activity-graph.vercel.app/graph?username=ishkihu&theme=react-dark&hide_border=true)
+Below are specific systems and collaborative platforms I've worked on. *(Note: Replace `OWNER` and `REPO-NAME` below with the real paths to display live repository cards!)*
 
-### 📊 Performance Analytics
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=ishkihu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ishkihu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <a href="https://github.com/OWNER/REPO-NAME-1">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=OWNER&repo=REPO-NAME-1&theme=dark&hide_border=false" width="48%" />
+  </a>
+  <a href="https://github.com/OWNER/REPO-NAME-2">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=OWNER&repo=REPO-NAME-2&theme=dark&hide_border=false" width="48%" />
+  </a>
 </p>
 
-![](https://streak-stats.demolab.com/?user=ishkihu&theme=dark&hide_border=false)
+---
 
-### 🏆 Achievements & Milestones
-![](https://github-profile-trophy.vercel.app/?username=ishkihu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# 📈 Real-Time Commit Activity
+
+### 📅 Recent Development Timeline
+This section dynamically pulls your most recent contributions and commits across GitHub via automation.
+![](https://github-readme-activity-graph.vercel.app/graph?username=ishkihu&theme=react-dark&hide_border=true)
 
 ---
 <p align="center">
