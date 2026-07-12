@@ -32,7 +32,7 @@ Below are specific systems and collaborative platforms I've worked on. *(Note: R
 
 <p align="left">
   <a href="https://github.com/nolifekenn/etire-management-system">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=nolifekenn&repo=etire-management-system&theme=dark&hide_border=false" width="48%" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=kennbalbon&repo=etire-management-system&theme=dark&hide_border=false" width="48%" />
   </a>
   <a href="https://github.com/ishkihu/QueenR-Tire-Management">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=ishkihu&repo=QueenR-Tire-Management&theme=dark&hide_border=false" width="48%" />
