@@ -31,11 +31,11 @@ Fourth Year BSIS Student & Full-Stack Web Developer.
 Below are specific systems and collaborative platforms I've worked on. *(Note: Replace `OWNER` and `REPO-NAME` below with the real paths to display live repository cards!)*
 
 <p align="left">
-  <a href="https://github.com/OWNER/REPO-NAME-1">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=OWNER&repo=REPO-NAME-1&theme=dark&hide_border=false" width="48%" />
+  <a href="https://github.com/nolifekenn/etire-management-system">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=nolifekenn&repo=etire-management-system&theme=dark&hide_border=false" width="48%" />
   </a>
-  <a href="https://github.com/OWNER/REPO-NAME-2">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=OWNER&repo=REPO-NAME-2&theme=dark&hide_border=false" width="48%" />
+  <a href="https://github.com/ishkihu/QueenR-Tire-Management">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=ishkihu&repo=QueenR-Tire-Management&theme=dark&hide_border=false" width="48%" />
   </a>
 </p>
 
@@ -44,7 +44,6 @@ Below are specific systems and collaborative platforms I've worked on. *(Note: R
 # 📈 Real-Time Commit Activity
 
 ### 📅 Recent Development Timeline
-This section dynamically pulls your most recent contributions and commits across GitHub via automation.
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ishkihu&theme=react-dark&hide_border=true)
 
 ---
