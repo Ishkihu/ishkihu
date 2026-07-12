@@ -36,8 +36,6 @@ I'm incredibly passionate in learning newly developed technologies, collaboratin
 
 # 📁 Featured Repositories & Contributions
 
-Below are specific systems and collaborative platforms I've worked on. *(Note: Replace `OWNER` and `REPO-NAME` below with the real paths to display live repository cards!)*
-
 <p align="left">
   <a href="https://github.com/nolifekenn/etire-management-system">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=kennbalbon&repo=etire-management-system&theme=dark&hide_border=false" width="48%" />
