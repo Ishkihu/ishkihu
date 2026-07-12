@@ -1,13 +1,12 @@
 # Hi there! I'm John Victor Esquejo 👋
 
-I am a **Full-Stack Web Developer** and a fourth-year **Bachelor of Science in Information Systems (BSIS)** student. I specialize in building robust backend architectures, optimizing database performance, and creating seamless end-to-end web applications. 
+I'm an aspiring Software Engineer from Technological University of the Philippines with a strong interest in software development, website technologies, and database systems. I find pleasure in building practical and user aligned applications while continuously improving my technical and problem solving skills.
 
-When I'm not resolving database deadlocks, writing API endpoints, or tweaking frontend components, you can usually find me navigating open-source workflows on Linux or diving into complex strategy and survival games.
+I'm incredibly passionate in learning newly developed technologies, collaborating on meaningful projects, and growing as a developer in the software engineering field.
 
-- 🚀 **Currently focused on:** Building scalable full-stack applications with Laravel, Next.js, and TypeScript.
-- 🗄️ **Database of choice:** PostgreSQL (and fine-tuning complex SQL queries).
-- 💬 **Ask me about:** Systems analysis, API integration, or why clean git branches matter.
-- ⚡ **Fun fact:** I treat terminal configuration and optimization like its own mini-game.
+- **Currently focused on:** Building scalable full-stack applications with Laravel, Next.js, and TypeScript.
+- **Database of choice:** PostgreSQL (and fine-tuning complex SQL queries).
+- **Contact:** Feel free to reach out to my socials or go through my portfolio webpage to get to know me!
 
 ## 🌐 Socials & Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ishkihu)
