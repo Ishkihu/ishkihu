@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm John Victor Esquejo 👋
 Fourth Year BSIS Student & Full-Stack Web Developer. 
 
 ## 🌐 Socials & Links
