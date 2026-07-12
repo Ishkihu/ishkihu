@@ -49,13 +49,6 @@ Below are specific systems and collaborative platforms I've worked on. *(Note: R
 
 ---
 
-# 📈 Lifetime Contribution History
-
-### 🗓️ Account Lifetime Grid
-![](https://arcane-journey-04803.herokuapp.com/api/github?username=ishkihu&theme=github_dark)
-
----
-
 ### 📅 Recent Development Timeline
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ishkihu&theme=react-dark&hide_border=true)
 
